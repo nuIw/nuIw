@@ -74,11 +74,8 @@ D.COM
 Kyung Hee University  
 — B.S. in Artificial Intelligence (in progress)
 
-<details>
-<summary>Certifications</summary>
+### Certifications
 
 - Craftsman Information Processing · Apr. 2025
 - SQL Developer (SQLD) · Apr. 2025
 - Advanced Data Analytics Semi-Professional (ADsP) · Jun. 2024
-
-</details>
